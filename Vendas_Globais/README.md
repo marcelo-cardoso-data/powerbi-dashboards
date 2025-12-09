@@ -13,7 +13,7 @@ O dashboard facilita a identificação de padrões, oportunidades de crescimento
 
 O painel apresenta os seguintes indicadores e análises:
 
-**Indicadores Principais**
+**Indicadores**
 
 - Total de Vendas Global
 
