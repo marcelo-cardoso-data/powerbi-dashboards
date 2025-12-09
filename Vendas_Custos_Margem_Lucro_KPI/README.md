@@ -1,38 +1,28 @@
 ### 🎯 Objetivo
 
-Fornecer uma visão analítica completa sobre as vendas globais, permitindo avaliar desempenho por categoria, país, prioridade e subcategoria.
-O dashboard facilita a identificação de padrões, oportunidades de crescimento e análise de comportamento de compra em diferentes regiões do mundo
+Exibir uma visão analítica do comportamento de vendas ao longo do tempo, relacionando volume vendido, custos operacionais, lucratividade e desempenho por categoria, mercado e modo de envio.
 
 
 ### 📂 Base de Dados Utilizada
 
- **- Arquivo:** base_dados_vendas_globais.csv 
+ **- Arquivo:** base_dados_vendas_custos_margem_lucro_kpi.csv 
 
  **- Descrição dos dados:** Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
 
-### 📐 KPIs Calculados no Dashboard
+### 📊 Indicadores Principais (KPIs)
 
-- Total de Vendas Global
+- Média do Valor de Venda
+  Indicador em formato gauge, mostrando a média geral das vendas no período analisado.
 
-- Total de Vendas por Categoria
+- Margem de Lucro ao Longo do Tempo
+  Linha temporal exibindo a evolução da margem de lucro por ano, trimestre, mês e dia.
 
-- Total de Vendas por País e Prioridade
+- Média do Custo de Envio por Mercado
+  Treemap destacando os mercados com maiores e menores custos médios de envio.
 
-- Média do Valor das Vendas por País
+- Soma do Valor de Venda por Modo de Envio
+  Gráfico waterfall mostrando aumento/diminuição do total de vendas conforme o método de envio.
 
-- Média de Desconto por Subcategoria
-
-**- Visualizaçoes Incluídas**
-
-- Filtros por Ano, Segmento e País
-
-- Gráfico de Barras – Média de Desconto por Subcategoria
-
-- Pizza – Total de Vendas por Categoria
-
-- Mapa – Média do Valor de Vendas por País
-
-- Barras Horizontais – Total de Vendas por País e Prioridade
-
-- Indicador de valor total (cartão) – Vendas Globais (Mi)
+- Média do Lucro por Categoria
+  Gráfico de rosca comparando as principais categorias (Tecnologia, Móveis e Material).
