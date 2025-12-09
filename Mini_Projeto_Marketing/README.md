@@ -25,6 +25,6 @@ Fornecer uma visão estratégica sobre:
 - **Soma do Número de Compras por Canal**  
   Inclui Loja, Web, Catálogo e Compras com Desconto.
 
-- **TotalGasto Total**  
+- **Total Gasto Total**  
   Valor total gasto pelos clientes nos diferentes canais.
 
