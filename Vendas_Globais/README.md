@@ -1,13 +1,13 @@
 🎯 Objetivo
 
-Apresentar uma análise clara e prática sobre o desempenho das vendas globais, destacando tendências, variações ao longo do tempo e comparação entre regiões.
-O painel permite identificar rapidamente quais áreas apresentam melhor performance, oportunidades de crescimento e evolução dos resultados.
+Fornecer uma visão analítica completa sobre as vendas globais, permitindo avaliar desempenho por categoria, país, prioridade e subcategoria.
+O dashboard facilita a identificação de padrões, oportunidades de crescimento e análise de comportamento de compra em diferentes regiões do mundo
 
 📂 Base de Dados Utilizada
 
- - Arquivo: base_vendas_globais.csv (ou o nome exato que estiver usando)
+ - Arquivo: base_dados_vendas_globais.csv 
 
  - Descrição dos dados:
-    Registros fictícios de vendas distribuídas por país/região
+    Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
- - Finalidade: dados totalmente simulados, criados exclusivamente para estudo e demonstração profissional.
+ 
