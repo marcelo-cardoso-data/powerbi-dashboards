@@ -14,7 +14,7 @@ Fornecer uma visão estratégica sobre:
  **- Descrição dos dados:** Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
 
-### 📊 Indicadores
+### 📊 Principais Indicadores
 
 - **Total de Clientes**  
   Quantidade total de clientes presentes na base.
