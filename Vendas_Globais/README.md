@@ -9,7 +9,7 @@ O dashboard facilita a identificação de padrões, oportunidades de crescimento
 
  **- Descrição dos dados:** Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
- ###  Indicadores Principais
+ ### Indicadores
 
 - Total de Vendas Global
 
