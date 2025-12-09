@@ -1,4 +1,4 @@
-🎯 Objetivo do Dashboard
+### 🎯 Objetivo do Dashboard
 Fornecer uma visão estratégica sobre:
 
 - Perfil demográfico dos colaboradores
@@ -11,10 +11,10 @@ Fornecer uma visão estratégica sobre:
 
 - Indicadores gerais de experiência e remuneração
 
-🗂️ Base de Dados Utilizada
+### 🗂️ Base de Dados Utilizada
 
 
-📌 Indicadores Principais (KPIs)
+### 📊 Indicadores Principais (KPIs)
 
 - Total de Funcionários.
 
