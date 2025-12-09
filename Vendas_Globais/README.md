@@ -25,7 +25,7 @@ O painel apresenta os seguintes indicadores e análises:
 
 - Média de Desconto por Subcategoria
 
-#**Visualizaçoes Incluídas**
+**Visualizaçoes Incluídas**
 
 - Filtros por Ano, Segmento e País
 
