@@ -9,8 +9,7 @@ O dashboard facilita a identificação de padrões, oportunidades de crescimento
 
  **- Descrição dos dados:** Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
-### 📐 KPIs Calculados no Dashboard
-Indicadores
+### 📐 KPIs Calculados no DashboardIndicadores
 - Total de Vendas Global
 
 - Total de Vendas por Categoria
