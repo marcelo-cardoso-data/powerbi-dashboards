@@ -13,6 +13,6 @@ Cada pasta representa um painel/dashboard específico, contendo:
   - Bases de dados fictícias utilizadas no desenvolvimento
 
   - Um arquivo README.md detalhando:
-        Objetivo
-        Base de Dados Utilizada
-        KPIs Calculados
+        * Objetivo
+        * Base de Dados Utilizada
+        * KPIs Calculados
