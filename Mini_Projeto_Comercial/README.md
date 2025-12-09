@@ -12,7 +12,7 @@ Fornecer uma visão estratégica sobre:
 ### 🗂️ Base de Dados Utilizada
 
 
-### 📌 Indicadores Principais (KPIs)
+### 📊 Indicadores Principais (KPIs)
 
 - Total Valor Venda por Segmento
 
