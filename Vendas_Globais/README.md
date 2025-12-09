@@ -9,7 +9,11 @@ O dashboard facilita a identificação de padrões, oportunidades de crescimento
 
  **- Descrição dos dados:** Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
- ### Indicadores
+### 📐 KPIs Calculados no Dashboard
+
+O painel apresenta os seguintes indicadores e análises:
+
+**Indicadores Principais**
 
 - Total de Vendas Global
 
@@ -21,7 +25,7 @@ O dashboard facilita a identificação de padrões, oportunidades de crescimento
 
 - Média de Desconto por Subcategoria
 
-### Visualizações Incluídas
+**Visualizações Incluídas**
 
 - Filtros por Ano, Segmento e País
 
