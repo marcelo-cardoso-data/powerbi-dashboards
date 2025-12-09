@@ -6,13 +6,13 @@ Nenhuma informação real, sensível ou confidencial é utilizada aqui.
 
 📁 Estrutura do Repositório
 
-Cada pasta representa um painel/dash específico, contendo:
+Cada pasta representa um painel/dashboard específico, contendo:
 
-Arquivo .pbix
+  - Arquivo .pbix
 
-Bases de dados fictícias utilizadas no desenvolvimento
+  - Bases de dados fictícias utilizadas no desenvolvimento
 
-Um arquivo README.md detalhando:
- Objetivo
- Base de Dados Utilizada
- KPIs Calculados
+  - Um arquivo README.md detalhando:
+        Objetivo
+        Base de Dados Utilizada
+        KPIs Calculados
