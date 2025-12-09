@@ -13,7 +13,7 @@ O dashboard facilita a identificação de padrões, oportunidades de crescimento
 
 O painel apresenta os seguintes indicadores e análises:
 
-## **Indicadores Principais**
+## Indicadores Principais
 
 - Total de Vendas Global
 
@@ -25,7 +25,7 @@ O painel apresenta os seguintes indicadores e análises:
 
 - Média de Desconto por Subcategoria
 
-## **Visualizaçoes Incluídas**
+## Visualizaçoes Incluídas
 
 - Filtros por Ano, Segmento e País
 
