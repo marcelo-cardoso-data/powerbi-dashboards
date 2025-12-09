@@ -9,7 +9,12 @@ Fornecer uma visão estratégica sobre:
 
 - Atuação dos vendedores por estado e região
 
+
 ### 🗂️ Base de Dados Utilizada
+
+ **- Arquivo:** base_dados_comerciais.csv 
+
+ **- Descrição dos dados:** Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
 
 ### 📊 Indicadores Principais (KPIs)
