@@ -9,28 +9,28 @@ O dashboard facilita a identificação de padrões, oportunidades de crescimento
 
  **- Descrição dos dados:** Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
- ### Indicadores Principais
+ ###  Indicadores Principais
 
-Total de Vendas Global
+- Total de Vendas Global
 
-Total de Vendas por Categoria
+- Total de Vendas por Categoria
 
-Total de Vendas por País e Prioridade
+- Total de Vendas por País e Prioridade
 
-Média do Valor das Vendas por País
+- Média do Valor das Vendas por País
 
-Média de Desconto por Subcategoria
+- Média de Desconto por Subcategoria
 
 ### Visualizações Incluídas
 
-Filtros por Ano, Segmento e País
+- Filtros por Ano, Segmento e País
 
-Gráfico de Barras – Média de Desconto por Subcategoria
+- Gráfico de Barras – Média de Desconto por Subcategoria
 
-Pizza – Total de Vendas por Categoria
+- Pizza – Total de Vendas por Categoria
 
-Mapa – Média do Valor de Vendas por País
+- Mapa – Média do Valor de Vendas por País
 
-Barras Horizontais – Total de Vendas por País e Prioridade
+- Barras Horizontais – Total de Vendas por País e Prioridade
 
-Indicador de valor total (cartão) – Vendas Globais (Mi)
+- Indicador de valor total (cartão) – Vendas Globais (Mi)
