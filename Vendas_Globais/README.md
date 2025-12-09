@@ -11,7 +11,7 @@ O dashboard facilita a identificação de padrões, oportunidades de crescimento
 
 ### 📐 KPIs Calculados no Dashboard
 
-**Indica**
+**Indicador**
 
 - Total de Vendas Global
 
