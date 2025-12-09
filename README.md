@@ -10,9 +10,6 @@ Cada pasta representa um painel/dashboard específico, contendo:
 
   - Arquivo .pbix
 
-  - Bases de dados fictícias utilizadas no desenvolvimento
+  - Bases de dados fictícias utilizadas no desenvolvimento.
 
-  - Um arquivo README detalhando:
-        ? Objetivo
-        > Base de Dados Utilizada
-        > KPIs Calculados
+  - Um arquivo README detalhando: Objetivo, Base de Dados Utilizada e KPIs Calculados.
