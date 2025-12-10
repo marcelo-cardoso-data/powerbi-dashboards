@@ -9,6 +9,9 @@ Fornecer uma visão estratégica sobre:
 
 ### 🗂️ Base de Dados Utilizada
 
+- Arquivo: base_dados_segmentacao_clientes_area_marketing.csv
+  
+- Descrição dos dados: Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
 ### 📊 Indicadores Principais (KPIs)
 - Média de Pontuação de Gastos 48,51 — com destaque para o Segmento 1, que apresenta a maior média (54).
