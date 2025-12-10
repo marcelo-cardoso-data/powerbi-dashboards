@@ -15,7 +15,7 @@ Fornecer uma visão estratégica sobre:
 
 - Descrição dos dados: Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
-### 📌 Indicadores Principais (KPIs)
+### 📊 Indicadores Principais (KPIs)
 
 - Total Receita.
 
