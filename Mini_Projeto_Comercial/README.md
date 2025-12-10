@@ -12,7 +12,7 @@ Fornecer uma visão estratégica sobre:
 
 ### 🗂️ Base de Dados Utilizada
 
- **- Arquivo:** base_dados_mini_projeto_comercial.csv 
+ **- Arquivo:** base_dados_mini_projeto_comercial.xlsx 
 
  **- Descrição dos dados:** Base com dados fictícios e utilizados exclusivamente para fins educacionais.
 
