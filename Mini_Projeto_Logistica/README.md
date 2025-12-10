@@ -29,6 +29,8 @@ Fornecer uma visão estratégica sobre:
 
 - Desempenho dos Vendedores
 
-- Cidades com Mais
+- Cidades com Mais Atrasos
 
-Filtro por Ano Permite alternar entre os anos de 2019 e 2020 para análise comparativa.
+- Filtro po Ano
+
+
