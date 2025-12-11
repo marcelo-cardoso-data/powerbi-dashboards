@@ -10,7 +10,7 @@ Este repositório reúne dashboards desenvolvidos em Power BI, utilizando dados 
 
 Cada pasta representa um projeto específico de Power BI e contém:
 
- - Arquivo .pbix – Dashboard completo com visualizações.
+- Arquivo .pbix – Dashboard completo com visualizações.
 
 - Base de dados fictícia utilizada no desenvolvimento do painel.
 
@@ -26,8 +26,8 @@ Cada pasta representa um projeto específico de Power BI e contém:
 
 - Criação de indicadores
 
- - Desenvolvimento de dashboards
+- Desenvolvimento de dashboards
 
- - Construção de análises interativas
+- Construção de análises interativas
 
 - Extração de insights para tomada de decisão
