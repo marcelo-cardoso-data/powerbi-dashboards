@@ -11,7 +11,7 @@ Fornecer uma visão estratégica sobre:
 
 ### 🗂️ Base de Dados Utilizada
 
-- Arquivo: base_dados_Engenharia_de_Predicao_com_Power_BI_e_IA.csv
+- Arquivo: base_dados_Engenharia_de_Predicao_com_Power_BI_e_IA.xlsx
   
 - Descrição dos dados: Base com dados fictícios e utilizados exclusivamente para fins educacionais.
   
