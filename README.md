@@ -5,6 +5,7 @@ Este repositório reúne dashboards desenvolvidos em Power BI, utilizando dados 
 🔒 Nenhuma informação real, sensível ou confidencial é utilizada aqui.
 
 
+
 ### 📁 Estrutura do Repositório
 
 Cada pasta representa um projeto específico de Power BI e contém:
@@ -14,6 +15,7 @@ Cada pasta representa um projeto específico de Power BI e contém:
 - Base de dados fictícia utilizada no desenvolvimento do painel.
 
 - Arquivo README.md do projeto, contendo: Objetivo do dashboard, base de dados utilizada e principais indicadores (KPIs)
+
 
 
 ### 🎯 Objetivo do Repositório
