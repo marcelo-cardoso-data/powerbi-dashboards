@@ -24,6 +24,8 @@ Cada pasta representa um projeto específico de Power BI e contém:
 
 - Modelagem, tratamento e transformação de dados
 
+- Criação de indicadores
+
 - Desenvolvimento de dashboards
 
 - Construção de análises interativas
