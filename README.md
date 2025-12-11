@@ -1,15 +1,31 @@
-### Power BI Dashboards – Portfólio
+### 📊 Power BI Dashboards – Portfólio
 
 Este repositório reúne dashboards desenvolvidos em Power BI, utilizando dados fictícios criados exclusivamente para fins de estudo, demonstração profissional e apresentação de competências.
 
-Nenhuma informação real, sensível ou confidencial é utilizada aqui.
+🔒 Nenhuma informação real, sensível ou confidencial é utilizada aqui.
+
 
 📁 Estrutura do Repositório
 
-Cada pasta representa um painel/dashboard específico, contendo:
+Cada pasta representa um projeto específico de Power BI e contém:
 
-  - Arquivo .pbix
+ - Arquivo .pbix – Dashboard completo com visualizações.
 
-  - Bases de dados fictícias utilizadas no desenvolvimento.
+- Base de dados fictícia utilizada no desenvolvimento do painel.
 
-  - Um arquivo README detalhando: Objetivo, Base de Dados Utilizada e KPIs Calculados.
+- Arquivo README.md do projeto, contendo: Objetivo do dashboard, base de dados utilizada e principais indicadores (KPIs)
+
+
+🎯 Objetivo do Repositório
+
+- Organizar meus projetos de Power BI e demonstrar experiência com:
+
+- Modelagem, tratamento e transformação de dados
+
+- Criação de indicadores
+
+ - Desenvolvimento de dashboards
+
+ - Construção de análises interativas
+
+- Extração de insights para tomada de decisão
