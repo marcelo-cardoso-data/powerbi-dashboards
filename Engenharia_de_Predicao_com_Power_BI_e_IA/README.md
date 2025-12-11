@@ -14,7 +14,7 @@ Fornecer uma visão estratégica sobre:
 - Arquivo: base_dados_Engenharia_de_Predicao_com_Power_BI_e_IA.csv
   
 - Descrição dos dados: Base com dados fictícios e utilizados exclusivamente para fins educacionais.
-- 
+  
 ### 📊 Indicadores Principais (KPIs)
 
 - Média de Unidades Produzidas por Ano
